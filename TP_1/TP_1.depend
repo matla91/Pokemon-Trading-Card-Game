@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1733910214 source:c:\users\hp\documents\ensisa\informatique\c++\tp\tp_1\main.cpp
+	"card.h"
+	"PokemonCard.h"
+	"EnergyCard.h"
+	"TrainerCard.h"
+	"Player.h"
+	<iostream>
+	<string>
+
+1733912257 c:\users\hp\documents\ensisa\informatique\c++\tp\tp_1\include\pokemoncard.h
+	"Card.h"
+	<tuple>
+	<vector>
+	<string>
+
+1733912216 c:\users\hp\documents\ensisa\informatique\c++\tp\tp_1\include\card.h
+	<string>
+	<iostream>
+
+1733912331 source:c:\users\hp\documents\ensisa\informatique\c++\tp\tp_1\src\pokemoncard.cpp
+	"PokemonCard.h"
+	<iostream>
+
+1733911352 source:c:\users\hp\documents\ensisa\informatique\c++\tp\tp_1\src\energycard.cpp
+	"EnergyCard.h"
+	<iostream>
+
+1733912363 c:\users\hp\documents\ensisa\informatique\c++\tp\tp_1\include\energycard.h
+	"Card.h"
+	<string>
+
+1733912457 c:\users\hp\documents\ensisa\informatique\c++\tp\tp_1\include\trainercard.h
+	"Card.h"
+	<string>
+
+1733911379 source:c:\users\hp\documents\ensisa\informatique\c++\tp\tp_1\src\trainercard.cpp
+	"TrainerCard.h"
+	<iostream>
+
+1733912546 c:\users\hp\documents\ensisa\informatique\c++\tp\tp_1\include\player.h
+	<string>
+	<vector>
+	"Card.h"
+	"PokemonCard.h"
+	"EnergyCard.h"
+	"TrainerCard.h"
+
+1733911780 source:c:\users\hp\documents\ensisa\informatique\c++\tp\tp_1\src\player.cpp
+	"player.h"
+	<iostream>
+	<algorithm>
+
